@@ -1,2 +1,1 @@
-# DataMining_Algorithm
-Basic data mining algorithm python code with data
+Programming Assignment For Data Science (ITE4005) 
